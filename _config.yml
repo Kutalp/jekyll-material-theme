@@ -3,8 +3,8 @@ name: Utalp
 email: munestdi@gmail.com
 description: The Revolution Never Ends
 
-baseurl: "/blog"
-url: ""
+baseurl: ""
+url: "https://utalp.com/"
 
 display_footer: inital  #change this to 'none' if you want to hide the footer copyright text
 
