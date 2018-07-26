@@ -9,7 +9,7 @@ theme: jekyll-material-theme
 
 parallax_image_one: assets/images/utalp.com main1.jpg # These are the images used for the parallax background
 parallax_image_two: assets/images/utalp.com blog.jpg
-logo: assets/images/utalp.png
+logo: assets/images/Utalp.png
 
 project_one: Multi Bag
 project_one_description: Describe your project!
