@@ -1,10 +1,10 @@
-title: "Utalp"
+title: Utalp
 name: Utalp
 email: munestdi@gmail.com
 description: The Revolution Never Ends
 
 baseurl: ""
-url: "https://utalp.com/"
+url: https://utalp.com
 
 display_footer: inital  #change this to 'none' if you want to hide the footer copyright text
 
