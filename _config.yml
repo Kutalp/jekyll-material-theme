@@ -3,7 +3,7 @@ name: Utalp
 email: munestdi@gmail.com
 description: The Revolution Never Ends
 
-display_footer: initial  #change this to 'none' if you want to hide the footer copyright text
+display_footer: inital  #change this to 'none' if you want to hide the footer copyright text
 
 
 parallax_image_one: assets/images/utalp.com main1.jpg # These are the images used for the parallax background
