@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Hello World!"
-date:   2017-12-04 21:15:05 +0000
-image: /assets/images/startup.jpg
+title:  "Shippings are ready."
+date:   2018-07-04 21:15:05 +0000
+image: /assets/images/background3.jpg
 
 ---
 You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
