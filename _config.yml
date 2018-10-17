@@ -9,21 +9,26 @@ display_footer: inital  #change this to 'none' if you want to hide the footer co
 parallax_image_one: assets/images/utalp.com main1.jpg # These are the images used for the parallax background
 parallax_image_two: assets/images/utalp.com blog.jpg
 
-project_one: Multi Bag
+project_one: Flamingo Coasters
 project_one_description: Describe your project!
-project_one_url: https://github.com/jameshamann/jekyll-material-theme
+project_one_url: https://www.amazon.com/dp/B07FTWNC9T/ref=twister_B07FTR72T5?_encoding=UTF8&th=1
 project_one_icon: location_on
 
-project_two: Second Project
+project_two: Ice Cream Coasters
 project_two_description: Describe your project!
-project_two_url: https://github.com/jameshamann/jekyll-material-theme
+project_two_url: https://www.amazon.com/Utalp-Pier-Wood-Cream-Coasters/dp/B07H4WFBGS/ref=sr_1_1?ie=UTF8
 project_two_icon: photo_camera
 
 
-project_three: Third Project
+project_three: Forest Grocary Bag
 project_three_description: Describe your project!
-project_three_url: https://github.com/jameshamann/jekyll-material-theme
+project_three_url: https://www.amazon.com/dp/B07FTWNC9T/ref=twister_B07FTR72T5?_encoding=UTF8
 project_three_icon: hotel
+
+project_two: Flowers Grocery Bag
+project_two_description: Describe your project!
+project_two_url: https://www.amazon.com/dp/B07FTQJJXD/ref=twister_B07FTR72T5?_encoding=UTF8
+project_two_icon: photo_camera
 
 
 portfolio_heading: Products
